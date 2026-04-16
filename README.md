@@ -118,7 +118,3 @@ The system was successfully tested and achieved the following:
 ## 📸 Project Preview
 
 Add your images here (chassis, wiring, app UI)
-
-/images/chassis.jpg  
-/images/wiring.jpg  
-/images/app_ui.jpg  
