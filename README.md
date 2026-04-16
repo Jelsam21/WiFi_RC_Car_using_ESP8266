@@ -27,7 +27,6 @@ Specifically, this project aims to:
 * 18650 Lithium-ion Battery
 * Robot chassis
 * Jumper wires
-* Smartphone (Blynk App)
 
 ---
 
